@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi everyone 👋
+
+file:///C:/Users/pawat/Downloads/Grey%20and%20White%20Minimalist%20Fashion%20Designer%20Resume.svg
 
 
 **phurichai2547/phurichai2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
