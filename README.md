@@ -1,7 +1,7 @@
 ## Hi everyone 👋
 
 <div id="header" align="center">
-  <img src="![3](https://github.com/user-attachments/assets/cc39c111-db67-4c4c-8dde-78aa8052ece2)" width="100"/>
+  <img src="C:/Users/pawat/Downloads/Grey%20and%20White%20Minimalist%20Fashion%20Designer%20Resume.svg" width="100"/>
 </div>
 
 
