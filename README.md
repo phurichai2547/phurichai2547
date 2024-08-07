@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-![Resume]https://github.com/phurichai2547/phurichai2547/blob/main/Grey%20and%20White%20Minimalist%20Fashion%20Designer%20Resume.zip
+![Resume](https://github.com/phurichai2547/phurichai2547/blob/main/Grey%20and%20White%20Minimalist%20Fashion%20Designer%20Resume%20(1).svg)
 
 
 
