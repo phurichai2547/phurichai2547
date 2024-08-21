@@ -2,7 +2,7 @@
 
 ![Resume](https://github.com/phurichai2547/phurichai2547/blob/main/Grey%20and%20White%20Minimalist%20Fashion%20Designer%20Resume%20(1).svg)
 
-This is certificate Frontend Web Development with React!!!
+![image](https://github.com/user-attachments/assets/dcfc0b5e-92e3-4d86-9a3c-495be244186b)
 
 ![image](https://github.com/user-attachments/assets/6cb4f392-02e9-465f-953f-bbc5340c5db3)
 
