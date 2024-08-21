@@ -2,6 +2,7 @@
 
 ![Resume](https://github.com/phurichai2547/phurichai2547/blob/main/Grey%20and%20White%20Minimalist%20Fashion%20Designer%20Resume%20(1).svg)
 
+![image](https://github.com/user-attachments/assets/feffb580-4743-460e-ae72-ff67b3181fab)
 
 
 **phurichai2547/phurichai2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
