@@ -4,7 +4,8 @@
 
 This is certificate Frontend Web Development with React!!!
 
-![image](https://github.com/user-attachments/assets/47341fc2-baec-4223-81dd-b34ecdfea05d)
+![image](https://github.com/user-attachments/assets/1b610f22-20bd-4b4d-81bc-420e5809b7a6)
+
 ![image](https://github.com/user-attachments/assets/eee28e12-78f2-4648-94b3-abf867f6f886)
 
 
