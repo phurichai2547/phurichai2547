@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/6cb4f392-02e9-465f-953f-bbc5340c5db3)
 
-![image](https://github.com/user-attachments/assets/eee28e12-78f2-4648-94b3-abf867f6f886)
+Frontend with react!!!
 
 
 **phurichai2547/phurichai2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
