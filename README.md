@@ -19,9 +19,11 @@
 
 ![image](https://github.com/user-attachments/assets/3c7fe59d-6b79-4bbc-8829-c0d93e538dec)
 
-staff frontend in IT D-DAY 2024 (KMUTT)
+Staff Frontend in IT D-DAY 2024 (KMUTT)
 
-https://media.discordapp.net/attachments/1031934090477318165/1269336542023909527/image.jpg?ex=66c61ac6&is=66c4c946&hm=13c9f34b6a3141d19309b25562978abfaa1db7af2db26b765a19995a8a6ac106&=&format=webp&width=390&height=585
+![image](https://github.com/user-attachments/assets/127397f0-9a42-42ec-9525-0710e82a5eaa)
+
+Speaker Dev-ops in Helloworld 2023 (KMUTT)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
