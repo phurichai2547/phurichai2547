@@ -8,6 +8,11 @@
 
 (Frontend with react!!!)
 
+![image](https://github.com/user-attachments/assets/4dda902b-078a-4172-b7f1-6d93e0834675)
+
+(C# language)
+
+
 
 **phurichai2547/phurichai2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
