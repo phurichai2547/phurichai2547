@@ -14,7 +14,7 @@
 (C# language)
 
 ![Uploading image.png…]()
-learning how to learn (KMUTT)
+Learning How to Learn: Powerful mental tools to help you master tough subjects (KMUTT)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/cbfa7967-e38d-48e7-a466-58bbb598bc18)
